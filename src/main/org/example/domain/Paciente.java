@@ -9,7 +9,6 @@ public class Paciente implements Serializable {
     private String apellido;
     private int edad;
 
-    // Constructores, getters y setters
 
     public Paciente() {
     }
